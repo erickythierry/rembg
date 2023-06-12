@@ -1,0 +1,1 @@
+## adaptação do projeto danielgatis/rembg para docker / caprover
